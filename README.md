@@ -25,11 +25,11 @@ This project demonstrates how a machine learning model can be trained and integr
 
 📈 Workflow
 
-1. Data Collection & Cleaning**
-2. Feature Engineering & Encoding**
-3. Exploratory Data Analysis (EDA)**
-4. Model Building using scikit-learn**
-5. Model Serialization using pickle**
-6. Web App with Flask for User Interaction**
+1. Data Collection & Cleaning
+2. Feature Engineering & Encoding
+3. Exploratory Data Analysis (EDA)
+4. Model Building using scikit-learn
+5. Model Serialization using pickle
+6. Web App with Flask for User Interaction
 
 
