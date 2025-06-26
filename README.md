@@ -21,7 +21,7 @@ This project demonstrates how a machine learning model can be trained and integr
 - Linear Regression Model
 - Interactive web form (HTML Bootstrap + Flask backend)
 - Input fields: Car Name, Model, Year of Purchase, fuel_type, Kilometers driven
-- Model prediction and display on result page
+- Model prediction and display on same page.
 
 📈 Workflow
 
